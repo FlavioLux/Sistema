@@ -41,7 +41,15 @@ Regras do sistema
 
 	Para uma análise com os valores de entrada de Densidade populacional = 700 e Latência criminal = 18
 
-   
+O código SisAlerta.py permite a implementação das ações descritas anteriormente de modo a termos como saídas os seguintes valores:
+Membership Densidade: (0, 0.5, 0)
+Membership Criminalidade: (0, 0.8666666666666667, 0.2)
+Regra 1 (Baixo): 0
+Regra 2 (Extremo): 0.2
+Regra 3 (Muito Alto): 0.5
+Implicação (Método Produto): [0, 0.2, 0.5], [0, 0.2, 0.5]
+Agregação (Método Máximo): 0.5
+Defuzificação (Método Centroide): 36.42857142857143
        
 
 
