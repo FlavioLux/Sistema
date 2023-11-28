@@ -59,5 +59,6 @@ fuzzy_membership_trapezoidal: Esta função implementa uma função de pertinên
 
 Para obtenção dos gráficos é utilizada a biblioteca matplotlib
 
+![Alt Text](PlotIn.png)
 
 
