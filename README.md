@@ -12,10 +12,10 @@ Nessa parte atribuímos valores nominais, característicos da lógica Fuzzy,  à
 
 Densidade Populacional
 
-       - Baixa (0 - 500 hab/km²)
-       - Média (400 - 1000 hab/km²)
-       - Alta (800 - 1500 hab/km²)
-
+   - Baixa (0 - 500 hab/km²)
+   - Média (400 - 1000 hab/km²)
+   - Alta (800 - 1500 hab/km²)
+       
 Latência Criminal ( Nº de Crimes / mês )
 
    - Baixa (0 - 10 crimes/mês)
