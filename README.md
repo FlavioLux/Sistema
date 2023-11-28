@@ -52,7 +52,7 @@ Agregação (Método Máximo): 0.5
 Defuzificação (Método Centroide): 36.42857142857143
        
 
-
+- Para que possamos visualizar as funções de pertinência referentes as entradas utilizamos o código PlotIn.py
 
 
 
