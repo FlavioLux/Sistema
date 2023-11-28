@@ -52,7 +52,12 @@ Agregação (Método Máximo): 0.5
 Defuzificação (Método Centroide): 36.42857142857143
        
 
-- Para que possamos visualizar as funções de pertinência referentes as entradas utilizamos o código PlotIn.py
+- Para que possamos visualizar as funções de pertinência referentes as entradas utilizamos o código 'PlotIn.py', para tal, nele é feita a definição das funções de pertinência:
+
+fuzzy_membership_triangular: Esta função implementa uma função de pertinência triangular, que retorna a pertinência de um valor a um conjunto fuzzy triangular definido pelos parâmetros lower_bound, peak e upper_bound.
+fuzzy_membership_trapezoidal: Esta função implementa uma função de pertinência trapezoidal, que retorna a pertinência de um valor a um conjunto fuzzy trapezoidal definido pelos parâmetros left_bound, left_peak, right_peak e right_bound.
+
+Para obtenção dos gráficos é utilizada a biblioteca matplotlib
 
 
 
