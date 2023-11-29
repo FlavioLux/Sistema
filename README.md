@@ -62,3 +62,4 @@ Para obtenção dos gráficos é utilizada a biblioteca matplotlib
 ![Alt Text](plotIn.png)
 
 
+A saída desse sistema será o alerta de perigo, classificado de acordo com a lógica de um sistema nebuloso.
