@@ -57,9 +57,14 @@ Defuzificação (Método Centroide): 36.42857142857143
 fuzzy_membership_triangular: Esta função implementa uma função de pertinência triangular, que retorna a pertinência de um valor a um conjunto fuzzy triangular definido pelos parâmetros lower_bound, peak e upper_bound.
 fuzzy_membership_trapezoidal: Esta função implementa uma função de pertinência trapezoidal, que retorna a pertinência de um valor a um conjunto fuzzy trapezoidal definido pelos parâmetros left_bound, left_peak, right_peak e right_bound.
 
-Para obtenção dos gráficos é utilizada a biblioteca matplotlib
+Para obtenção dos gráficos é utilizada a biblioteca matplotlib, abaixo os gráficos das funções de pertinência da densidade populacional e da criminalidade, para esta última alterou-se o range para uma melhor visualização ( x = np.linspace(0, 100, 1000 ).
+
+Densidade populacional:
 
 ![Alt Text](plotIn1.png)
 
+Criminalidade (Latência criminal)
+
+![Alt Text](plotIn2.png)
 
 A saída desse sistema será o alerta de perigo, classificado de acordo com a lógica de um sistema nebuloso.
